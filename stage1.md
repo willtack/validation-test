@@ -13,6 +13,6 @@ Image displays are in **neurological** orientation (left=left).
 
 **Subjects**
 
-- [Subject 29](/stages/stage1/Subject29.html)
+- [Subject 1](/stages/stage1/Subject29.html)
 
-- [Subject 25](/stages/stage1/Subject25.html)
+- [Subject 2](/stages/stage1/Subject25.html)
