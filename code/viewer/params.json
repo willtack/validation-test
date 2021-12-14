@@ -1,0 +1,22 @@
+{
+  "encodedImages":["t1"],
+  "t1.nii.gz":{
+    "min":0.0,
+    "max":1000.0,
+    "lut":"Grayscale"
+    },
+    "worldSpace":true,
+    "showOrientation":true,
+    "showRuler":false,
+    "radiological":false,
+    "smoothDisplay":false,
+    "showControls":true,
+    "showControlBar":true,
+    "mainView": "sagittal",
+    "combineParametric":false,
+    "coordinate": [0.0,0.0,0.0],
+    "orthogonalDynamic":true,
+    "kioskMode":true,
+    "expandable":false,
+    "fullScreenPadding":true
+}
