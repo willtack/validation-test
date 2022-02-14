@@ -29,12 +29,12 @@ The rater will also rate their confidence in their answer for Levels 1 and 2 as 
 
 The images will be unlabeled and will vary in order from stage to stage.
 
-The study is divided into four stages:
+The study is divided into three stages:
 
 1. Raters view raw T1w images and make diagnosis
 2. Orientation: Raters view Neuroprint heatmaps but make no diagnosis.
 3. Raters view Neuroprint heatmaps and make diagnosis
-4. Raters view Neuroprint heatmaps alongside clinical context for that case and make diagnosis
+
 
 --
 
