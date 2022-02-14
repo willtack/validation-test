@@ -42,4 +42,3 @@ The study is divided into four stages:
 ## [Stage 1]({{ '/stage1/' | relative_url }})
 ## [Stage 2]({{ '/stage2/' | relative_url }})
 ## [Stage 3]({{ '/stage3/' | relative_url }})
-## [Stage 4]({{ '/stage4/' | relative_url }})
