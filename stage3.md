@@ -14,4 +14,3 @@ Each question in the survey will contain a Neuroprint heatmap rendering threshol
 <br/>
 - - -  
 <br/>
-### NEXT STEP: [Stage 4]({{ '/stage4/' | relative_url }})
